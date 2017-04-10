@@ -1,4 +1,3 @@
-# nomadconnection
 This is my solution for nomadconnection coding test
 
 왕승양
